@@ -7,7 +7,7 @@ int main()
 	printf("Enter the string : ");
 	gets(str);
 
-	printf("Enter a chacter to find its frequency :");
+	printf("Enter a character to find its frequency :");
 	scanf("%c",&ch);
 
 	for(int i=0;str[i]!='\0';i++)
